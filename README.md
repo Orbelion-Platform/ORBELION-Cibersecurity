@@ -4,6 +4,12 @@ Engineering portfolio exploring evidence-based security assessment.
 
 An independent case study with conceptual architecture and an original, runnable synthetic example. Public material is deliberately limited to general engineering principles; production code, configuration and operational evidence remain private.
 
+## Defense-in-depth overview
+
+![ORBELION defense in depth: endpoint, identity and access, code supply chain, edge and APIs, infrastructure and data, and observability converge on operational security.](docs/assets/cybersecurity-defense-in-depth.png)
+
+Six complementary security domains converge on coordination, evidence and review. They are parallel layers of protection, not steps in a single sequence. This conceptual view illustrates the portfolio vision; it does not certify deployment or integration of the products shown.
+
 ## Conceptual architecture
 
 ```mermaid
